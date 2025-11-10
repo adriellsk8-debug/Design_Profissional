@@ -1,2 +1,2 @@
-# Design_Profissional_Ci-ncia_da_Computa-o
+# Design_Profissional_Ciência_da_Computação
 Repositório para atividade da disciplina Design Profissional
